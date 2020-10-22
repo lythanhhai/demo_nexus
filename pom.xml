@@ -34,7 +34,7 @@
     <distributionManagement>
         <snapshotRepository>
             <id>nexus-releases</id>
-            <url>http://35.220.140.167:8080/repository/maven-snapshots/</url>
+            <url>http://35.220.140.167:8080/repository/maven-releases/</url>
         </snapshotRepository>
     </distributionManagement>
 </project>
