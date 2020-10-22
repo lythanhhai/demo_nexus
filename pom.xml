@@ -6,7 +6,7 @@
 
     <groupId>org.example</groupId>
     <artifactId>demo-nexus</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.2-SNAPSHOT</version>
 
     <build>
         <plugins>
@@ -33,7 +33,7 @@
 
     <distributionManagement>
         <snapshotRepository>
-            <id>nexus-snapshots</id>
+            <id>nexus-releases</id>
             <url>http://35.220.140.167:8080/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
