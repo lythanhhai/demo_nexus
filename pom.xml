@@ -4,10 +4,10 @@
 
     <groupId>org.example</groupId>
     <artifactId>demo-nexus</artifactId>
-    <version>1.3-SNAPSHOT</version>
+    <version>1.3</version>
     <scm>
         <developerConnection>scm:git:git@github.com:ledangtuanbk/demo-nexus.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>demo-nexus-1.3</tag>
     </scm>
     <build>
         <plugins>
