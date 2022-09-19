@@ -6,7 +6,7 @@
     <artifactId>demo-nexus</artifactId>
     <version>3.0.3</version>
     <scm>
-        <developerConnection>scm:git:git@github.com:lythanhai/demo_nexus.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:lythanhhai/demo_nexus.git</developerConnection>
         <tag>demo-nexus-3.0.3</tag>
     </scm>
     <build>
