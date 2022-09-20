@@ -7,7 +7,6 @@
     <version>1.0.3-SNAPSHOT</version>
     <scm>
         <developerConnection>scm:git:git@github.com:lythanhhai/demo_nexus.git</developerConnection>
-        
         <tag>demo_nexus-1.0.3</tag>
     </scm>
     <build>
